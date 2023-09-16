@@ -3,6 +3,7 @@
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+## Link: https://mariem25.github.io/news-homepage-main/
 
 Thanks for checking out this front-end coding challenge.
 
